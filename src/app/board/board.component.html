@@ -1,0 +1,16 @@
+<div class="filters">
+  <div class="filter-item" *ngFor="let filter of checkBoxFilters">
+    <app-checkbox-group [options]="filter.options" (toggled)="onToggled()"></app-checkbox-group>
+  </div>
+  <div class="filter-item">
+    <input type="text" (input)="filterByText()" [(ngModel)]="searchText">
+  </div>
+  <div class="filter-item">
+    <button (click)="onReset()">Reset filters</button>
+  </div>
+</div>
+<div class="lectures">
+  <div class="lecture-item" *ngFor='let lecture of lectures'>
+    <app-lecture [lecture]="lecture"></app-lecture>
+  </div>
+</div>

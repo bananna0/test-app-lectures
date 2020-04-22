@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Client rendering, server rendering, pre renderng. The full spectrum of JS website and application performance delivery",
+    "author": "Guillermo Rauch",
+    "language": "en",
+    "level": "INTERMEDIATE"
+  },
+  {
+    "name": "GraphQL-фрагменты на клиенте: История появления, ошибки использования",
+    "author": "Павел Черторогов",
+    "language": "ru",
+    "level": "ADVANCED"
+  },
+  {
+    "name": "@babel/how-to",
+    "author": "Nicoló Ribaudo",
+    "language": "en",
+    "level": "ADVANCED"
+  },
+  {
+    "name": "разработка компилятора для TypeScript на TypeScrypt на базе LLVM",
+    "author": "Дмитрий Пацура",
+    "language": "ru",
+    "level": "HARDCORE"
+  },
+  {
+    "name": "CSS definition syntax",
+    "author": "Роман Дворнов",
+    "language": "ru",
+    "level": "HARDCORE"
+  },
+  {
+    "name": "Может ли компьютер молиться на благо всех живых существ? Молитва на JavaScript и WebGL",
+    "author": "Денис Радин",
+    "language": "ru",
+    "level": "ACADEMIC"
+  },
+  {
+    "name": "Карьерная эффективность и карьерный путь в ИТ",
+    "author": "Дмитрий Волошин",
+    "language": "en",
+    "level": "ACADEMIC"
+  }
+]

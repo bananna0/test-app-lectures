@@ -1,0 +1,13 @@
+app-checkbox-group {
+  margin-right: 10px;
+}
+
+.filters {
+  display: inline-flex;
+}
+
+.lectures {
+  max-width: 600px;
+  display: flex;
+  flex-wrap: wrap
+}
