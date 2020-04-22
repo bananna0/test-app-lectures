@@ -18,10 +18,6 @@ export class Lecture {
   }
 }
 
-export enum ext {
-  'mock', 'prod'
-}
-
 export enum Languages {
   'ru', 'en'
 }
